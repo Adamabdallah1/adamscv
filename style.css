@@ -1,5 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
 .header{
     text-align: center;
+    background-color: rgb(27, 70, 60);
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
 }
 
 .header img {
